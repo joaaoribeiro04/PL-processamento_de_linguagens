@@ -1,0 +1,2 @@
+Word: ab
+Path: q0->q1->q2
